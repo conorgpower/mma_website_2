@@ -1,0 +1,2 @@
+-themmadirectory.x10host.com
+-themmadirectory.surge.sh
